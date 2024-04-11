@@ -1,40 +1,29 @@
+body {
+  margin: 0px;
+}
+/*----------------header---------------------*/
+header {
+  height: 110px;
+  background-color: rgb(159, 195, 236);
+}
+#client-logo {
+  height: 40px;
+  margin-left: 15px;
+}
+/*--------------main-----------------------*/
 h1 {
   margin-left: 10px;
   margin-bottom: 0px;
   margin-top: 30px;
 }
-h4 {
-  margin-left: 0px;
-  margin-bottom: 0px;
-  margin-top: 1px;
-}
-h5 {
-  margin-left: 0px;
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
-
-body {
-  margin: 0;
-}
-
-header {
-  height: 100px;
-  background-color: steelblue;
-}
-header figure {
-  margin: 0px;
-  width: 20%;
-}
-
 #subtitles {
   color: grey;
   margin-left: 10px;
+  margin-bottom: 0px;
 }
 main figure {
   margin: 10px;
 }
-
 #lorem-ipsum {
   padding-left: 10px;
   padding-right: 10px;
@@ -42,7 +31,15 @@ main figure {
 ul {
   padding-left: 15px;
 }
-
+h4 {
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 1px;
+}
+h5 {
+  margin: 0px;
+}
+/*--------------table-----------------------*/
 table {
   width: 100%;
 }
@@ -51,20 +48,20 @@ td {
 }
 th {
   text-align: left;
+  block-size: lengt;
 }
 .table-color-line {
-  background-color: rgba(117, 185, 241, 0.322);
+  background-color: rgba(140, 127, 221, 0.212);
 }
 .table-top-color-line {
-  background-color: lightskyblue;
+  background-color: rgb(135, 166, 250);
   color: white;
 }
-
+/*---------------footer----------------------*/
 footer {
-  background-color: darkslateblue;
+  background-color: rgb(64, 56, 117);
 }
 footer h5 {
-  margin-left: 0;
   color: white;
   text-align: center;
   height: 20px;
