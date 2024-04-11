@@ -1,0 +1,72 @@
+h1 {
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+h4 {
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 1px;
+}
+h5 {
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  height: 100px;
+  background-color: steelblue;
+}
+header figure {
+  margin: 0px;
+  width: 20%;
+}
+
+#subtitles {
+  color: grey;
+  margin-left: 10px;
+}
+main figure {
+  margin: 10px;
+}
+
+#lorem-ipsum {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ul {
+  padding-left: 15px;
+}
+
+table {
+  width: 100%;
+}
+td {
+  text-align: left;
+}
+th {
+  text-align: left;
+}
+.table-color-line {
+  background-color: rgba(117, 185, 241, 0.322);
+}
+.table-top-color-line {
+  background-color: lightskyblue;
+  color: white;
+}
+
+footer {
+  background-color: darkslateblue;
+}
+footer h5 {
+  margin-left: 0;
+  color: white;
+  text-align: center;
+  height: 20px;
+  padding: 20px;
+}
