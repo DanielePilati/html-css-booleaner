@@ -5,7 +5,7 @@ body {
 header div {
   background-color: rgb(159, 195, 236);
   background-image: url(../img/pattern.png);
-  background-size: 50%;
+  background-size: 400px;
 }
 #client-logo {
   height: 40px;
