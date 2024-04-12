@@ -2,14 +2,16 @@ body {
   margin: 0px;
 }
 /*----------------header---------------------*/
-header {
-  height: 110px;
+header div {
   background-color: rgb(159, 195, 236);
+  background-image: url(../img/pattern.png);
+  background-size: 50%;
 }
 #client-logo {
   height: 40px;
   margin-left: 15px;
-  padding-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 15px;
 }
 /*--------------main-----------------------*/
 h1 {
