@@ -27,7 +27,7 @@ h1 {
 main figure {
   margin-left: 10px;
   margin-top: 15px;
-  margin-bottom: 15;
+  margin-bottom: 15px;
 }
 #lorem-ipsum {
   padding-left: 10px;
@@ -36,11 +36,15 @@ main figure {
 ul {
   padding-left: 15px;
 }
-h4 {
+#subtitles h4 {
   margin-left: 0px;
   margin-bottom: 0px;
   margin-top: 1px;
 }
+#subtitles h5 {
+  margin: 0px;
+}
+/*------------image sub--------------*/
 h5 {
   margin: 0px;
 }
